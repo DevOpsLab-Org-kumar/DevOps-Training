@@ -1,4 +1,4 @@
-# Version - v1.1
+# Version - v1.0
 # DevOps-WebApp project integrated with CI model 
 # Added more lines of code
 -------------------------------
